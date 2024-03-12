@@ -1,7 +1,39 @@
-This is a Quarto website.
+--- 
+title: Alyssa Lung
+toc: false
+image: IMG_6363.jpg
+about: 
+  template: trestles
+  image-shape: round
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/feed/
+    - icon: github
+      text: GitHub
+      href: https://github.com/alyssalung
+    - icon: inbox-fill
+      text: Email
+      url: 'mailto:alyssalung13@gmail.com'
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About: 
 
-```{r}
-1 + 1
-```
+Hi, I'm Alyssa, a senior at UCLA studying Statistics and Data Science with a minor in entrepreneurship. I'm passionate about the intersection between data science and thinking outside the box. I had the opportunity to intern at FTI consulting and will be returning September 2025 in the Data and Analytics field within the Forensic and Litigation segment. I currently work at a startup, helping the founders grow their platform and perform market research. 
+
+In my free time, I teach yoga, love to travel, and attend concerts! 
+
+If you want to learn more about me, check out my [resume](Resume_AlyssaLung.pdf).
+
+## Experience
+
+**Ellevoy** | Product Strategy and Market Research Intern | October 2023 - Present
+Research target market and strategize with founders to launch company. 
+
+**UCLA Disabilities and Computing** Program | Data Lead | September 2022 - Present
+Maintain and analyze online accessibility tools, analyzing return on investment and utilization rates across campus. 
+
+**FTI Consulting** | Data and Analytics Intern | June 20203 - August 2023
+Utilized data science to work on forensic and litigation investigation cases. 
+
+

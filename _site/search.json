@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Alyssa Lung",
-    "section": "",
-    "text": "---\nProjects\n---"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alyssa Lung",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Alyssa, a senior at UCLA studying Statistics and Data Science with a minor in entrepreneurship. I’m passionate about the intersection between data science and thinking outside the box. I had the opportunity to intern at FTI consulting and will be returning September 2025 in the Data and Analytics field within the Forensic and Litigation segment. I currently work at a startup, helping the founders grow their platform and perform market research.\nIn my free time, I teach yoga, love to travel, and attend concerts!\nIf you want to learn more about me, check out my resume."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Alyssa Lung",
+    "section": "",
+    "text": "Hi, I’m Alyssa, a senior at UCLA studying Statistics and Data Science with a minor in entrepreneurship. I’m passionate about the intersection between data science and thinking outside the box. I had the opportunity to intern at FTI consulting and will be returning September 2025 in the Data and Analytics field within the Forensic and Litigation segment. I currently work at a startup, helping the founders grow their platform and perform market research.\nIn my free time, I teach yoga, love to travel, and attend concerts!\nIf you want to learn more about me, check out my resume."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Alyssa Lung",
+    "section": "Experience",
+    "text": "Experience\nEllevoy | Product Strategy and Market Research Intern | October 2023 - Present Research target market and strategize with founders to launch company.\nUCLA Disabilities and Computing Program | Data Lead | September 2022 - Present Maintain and analyze online accessibility tools, analyzing return on investment and utilization rates across campus.\nFTI Consulting | Data and Analytics Intern | June 20203 - August 2023 Utilized data science to work on forensic and litigation investigation cases."
   }
 ]

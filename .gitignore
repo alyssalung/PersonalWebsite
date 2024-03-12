@@ -3,4 +3,9 @@
 .RData
 .Ruserdata
 
+<<<<<<< HEAD
 /.quarto/
+=======
+.DS_Store
+.pdf
+>>>>>>> origin/main
